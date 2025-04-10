@@ -1,0 +1,1 @@
+alter table TabCidade add constraint fk_estado_cidade foreign key (cid_estID) references TabEstado (estID);
