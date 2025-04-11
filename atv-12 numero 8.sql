@@ -1,0 +1,1 @@
+select cidade,nome from cliente order by cidade

@@ -1,0 +1,1 @@
+select profissao,nome from cliente where profissao in ('professor', 'engenheiro','gestor')
