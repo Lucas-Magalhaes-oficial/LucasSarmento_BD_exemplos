@@ -1,0 +1,1 @@
+select NomeCLiente,cidade, uf from cliente order by uf desc,cidade desc
